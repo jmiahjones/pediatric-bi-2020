@@ -377,7 +377,7 @@ lr_stats <- foreach(j=seq_along(cut.pts),
   
   ret <- paste0(round(point.est, 3), " (",
                 round(conf.ints[1,], 3), ", ",
-                round(pmin(1, conf.ints[2,]), 3), ")")
+                round(conf.ints[2,], 3), ")")
   names(ret) <- c("SL.LR+", "GLM.LR+",
                   "SL.LR-", "GLM.LR-")
   ret
