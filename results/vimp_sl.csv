@@ -1,0 +1,11 @@
+,variable,importance
+1,sex,"0 (0, 0.065)"
+2,insurance,"0.009 (0, 0.045)"
+3,cm_condition,"0 (0, 0.047)"
+4,age,"0 (0, 0.054)"
+5,gestationage,"0.037 (0, 0.077)"
+6,appearance,"0.055 (0, 0.13)"
+7,maxtemp,"0 (0, 0.037)"
+8,numdaysill,"0.081 (0.018, 0.143)"
+9,cough,"0 (0, 0.042)"
+10,puti,"0.227 (0.139, 0.316)"

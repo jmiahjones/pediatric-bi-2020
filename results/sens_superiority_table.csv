@@ -1,0 +1,17 @@
+"","0.01","0.03","0.05"
+"Upper.CI.SL.Diff.Sens",-0.111,-0.164,-0.185
+"Upper.CI.SL.Diff.Spec",-0.006,0.166,0.212
+"Upper.CI.GLM.Diff.Sens",-0.088,-0.145,-0.176
+"Upper.CI.GLM.Diff.Spec",-0.209,0.13,0.21
+"Lower.CI.SL.Diff.Sens",0.015,-0.045,-0.057
+"Lower.CI.SL.Diff.Spec",0.202,0.28,0.305
+"Lower.CI.GLM.Diff.Sens",0.053,-0.013,-0.045
+"Lower.CI.GLM.Diff.Spec",0.141,0.283,0.315
+"Upper.p.SL.Diff.Sens",0.938,1,1
+"Upper.p.SL.Diff.Spec",0.066,0,0
+"Upper.p.GLM.Diff.Sens",0.718,0.982,0.998
+"Upper.p.GLM.Diff.Spec",0.532,0,0
+"Lower.p.SL.Diff.Sens",0.148,0,0
+"Lower.p.SL.Diff.Spec",0.934,1,1
+"Lower.p.GLM.Diff.Sens",0.398,0.038,0.004
+"Lower.p.GLM.Diff.Spec",0.476,1,1
