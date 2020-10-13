@@ -1,4 +1,5 @@
 # pediatric-bi-2020
+[![DOI](https://zenodo.org/badge/301472759.svg)](https://zenodo.org/badge/latestdoi/301472759)
 
 **Disclaimer:** The results presented below have not been externally validated. Do not use the information here for medical decisions.
 
