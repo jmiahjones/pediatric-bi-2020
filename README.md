@@ -1,13 +1,12 @@
 # pediatric-bi-2020
-[![DOI](https://zenodo.org/badge/301472759.svg)](https://zenodo.org/badge/latestdoi/301472759)
 
 **Disclaimer:** The results presented below have not been externally validated. Do not use the information here for medical decisions.
 
-This project contains all the code and data necessary for reproducing the results of *PUBLISHED PAPER CITATION*. The purpose of this project is to provide a risk calculator for Bacterial Infections among febrile infants. An example of this risk calculator may be found at https://www.urmc.rochester.edu/sites/biriskcalculator/.
+This project contains all the code and data necessary for reproducing the results of [this paper](https://doi.org/10.1016/j.jpeds.2020.12.079). The purpose of this project is to provide a risk calculator for Bacterial Infections among febrile infants. An example of this risk calculator may be found at https://www.urmc.rochester.edu/sites/biriskcalculator/.
 
 # Data Codebook
 
-Information on this data can be found in *PUBLISHED PAPER CITATION*. The two main data files are `main_analysis_data.csv` and `sensitivity_analysis_data.csv`. The codebook for the variables in these files is given below.
+Information on this data can be found in the [derivation paper](https://doi.org/10.1016/j.jpeds.2020.12.079). The two main data files are `main_analysis_data.csv` and `sensitivity_analysis_data.csv`. The codebook for the variables in these files is given below.
 
 Variable Name | Coding | Notes
 --------------|--------|------------
