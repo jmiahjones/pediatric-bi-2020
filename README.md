@@ -12,7 +12,6 @@ Variable Name | Coding | Notes
 --------------|--------|------------
 Record ID| Int | Unique identifier
 Sex|0 = Male, 1 = Female| 
-Insurance Type|0 = Private, 1 = Public,2 = None|
 Presence of Chronic Medical Condition (CMC)|0 = No,1 = Yes|
 Age|Continuous | Days
 Gestational Age|Continuous | Weeks; 37.5 = "Full Term"
@@ -28,9 +27,8 @@ The first column is a unique identifier for each infant. The final column repres
 
 # Project Workflow
 
-`CV_SL_GLM_main.R` produces the results for the main analysis. Variable importance was then examined by `CV_SL_GLM_vimp.R`. The sensitivity analysis, removing medical history variables, was performed in `CV_SL_GLM_nohist.R`. The model for the web calculator is produced in `web_glm_fit.R`.
+`train.R` produces the results for the derivation without insurance status, which live in the `results/` directory.
 
-Intermediate files and output are available in the `results/` directory.
 
 # Session Info
 

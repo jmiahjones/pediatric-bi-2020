@@ -1,3 +1,0 @@
-[1] "Improvement (over RLR) in AUC"
-           DIFF.SL.AUC           DIFF.GLM.AUC 
-"0.166 (0.139, 0.191)" "0.155 (0.095, 0.192)" 
